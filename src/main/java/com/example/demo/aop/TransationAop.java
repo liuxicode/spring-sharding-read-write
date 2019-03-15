@@ -6,7 +6,7 @@ import org.aspectj.lang.annotation.*;
 import org.springframework.stereotype.Component;
 
 /**
- *
+ * 切面用于事务方法中，读强制走主库
  *
  * @Auther: liuxi
  * @Date: 2019/3/15 14:22
